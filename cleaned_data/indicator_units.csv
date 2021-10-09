@@ -1,0 +1,38 @@
+Indicator,Unit,Definition
+Labour market insecurity,Percentage,The % of earnings loss of previous earnings.
+Stakeholder engagement for developing regulations,Average score,An average composite score that measures the quality of stakeholder engagements in law adoptions.
+Dwellings without basic facilities,Percentage,The % of people living in dwelling without indoor flushing toilet for the sole use of their households.
+Housing expenditure,Percentage,The % of gross adjusted household income spent on house maintenance and furnishings.
+Feeling safe walking alone at night,Percentage,The % of people who feel safe walking alone at night in the area they live in.
+Rooms per person,Ratio,The number of bedrooms divided by the number of persons living in the dwelling.
+Household net adjusted disposable income,US Dollar,The maximum amount of income that can be spent without reducing assets or increase its liabilities.
+Household net wealth,US Dollar,The total wealth including financial/non-financial assets and net of liabilities.
+Employment rate,Percentage,The % of employed persons aged 15 and 64 over the population of the same age.
+Long-term unemployment rate,Percentage,The % of people who have been unemployed for at least one year in the labor force.
+Personal earnings,US Dollar,The average annual wages per full-time employee in the economy.
+Quality of support network,Percentage,The % of people surveyed who believe they have the support of relatives/friends when in trouble.
+Educational attainment,Percentage,The % of adults aged 25 to 64 holdering at least an upper secondary degree.
+Student skills,Average score,"The average score of students in reading, math, and science assessed by the OECD PISA program."
+Years in education,Years,The average number of years of education between 5 - 39 years old.
+Air pollution,Micrograms per cubic metre,The population weighted average of annual concentrations of particulate matters less than PM2.5 in the air.
+Water quality,Percentage,The % of people surveyed who are satisfied with the water quality they receive in the household.
+Voter turnout,Percentage,The % of people who hold valid votes during election.
+Life expectancy,Years,The average number of years people could expect to live.
+Self-reported health,Percentage,The % of people at least 15 years old who responded to have good health.
+Life satisfaction,Average score,The average score of the people's evaluation of life as a whole on a scale of 0-10.
+Homicide rate,Ratio,"The rate of deaths due to assault per 100,000 population."
+Employees working very long hours,Percentage,The % of employees whose usual work hours per week is >50 hours.
+Time devoted to leisure and personal care,Hours,The number of hours spent per day on leisure and personal care.
+death_rate_perc,Ratio,"The rate of all deaths per 100,000 population."
+Suicide rate,Ratio,"The rate of suicide per 100,000 population."
+SuicideRate,Ratio,"The rate of suicide per 100,000 population."
+Life Ladder,Unit Index,This is the same as happiness index.
+Log GDP per capita,Log Unit,The log of GDP per capita.
+Social support,Percentage,The % of people who can get support from relatives/friends.
+Healthy life expectancy at birth,Years,The average number of years people could expect to live.
+Freedom to make life choices,Percentage,The % of people who responded they are free to make their own life choices.
+Generosity,Unit Index,The residual of regressing the national average of people who have donated money to a charity in the past month.
+Perceptions of corruption,Unit Index,The average of binary responses to the question of whether there is corruption in the government.
+Positive affect,Frequency,"The average frequency of happiness, laughter, and enjoyment on the previous day."
+Negative affect,Frequency,"The average frequency of worry, sadness, and anger on the previous day."
+Population,Integer Unit,The estimated number of people in a nation.
